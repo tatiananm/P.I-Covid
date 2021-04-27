@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Vacina contra COVID-19</title>
+</head>
+
+<body>
+    <article>
+        <header>
+            <h1>Como funciona a vacina </h1>
+            <p>A CoronaVac é produzida com vírus inativados do novo coronavírus (Sars-CoV-2) para inoculação em humanos.Com a aplicação de duas doses, o sistema imunológico passaria a produzir anticorpos contra o agente causador da COVID-19 </p>
+        </header>
+        <section>
+            <img src="">
+            <h2>O vírus é isolado em laboratório</h2>
+        </section>
+        <section>
+            <img src="">
+            <h3>Os cientistas infectam células com o vírus para que ele se multiplique</h3>
+        </section>
+        <section>
+            <img src="">
+            <h4>Os vírus são coletados e inativados por meio de procedimentos químicos para não causarem infecção</h4>
+        </section>
+        <section>
+            <img src="">
+            <h5>Uma substância chamada adjuvante é adicionada aos vírus inativados e purificados para formular a vacina</h5>
+        </section>
+        <section>
+            <img src="">
+            <h6>A vacina é aplicada em duas doses para induzir a produção de anticorpos por parte do sistema imunológico</h6>
+        </section>
+        <section>
+            <h7>
+                <p1>Todas as vacinas têm que passar por testes rigorosos para garantir a sua segurança, antes de poderem ser introduzidas no programa de vacinação de um país.
+                    <br />Cada vacina em desenvolvimento tem, em primeiro lugar, de ser submetida a exames e avaliações, para determinar que antigénio deve ser usado para provocar uma resposta do sistema imunitário. Esta fase pré-clínica é feita sem testes em humanos. Uma vacina experimental é testada primeiro em animais, para se avaliar a sua segurança e potencial para prevenir a doença.<br />Se a vacina desencadear uma resposta imunitária, passa a ser testada em ensaios clínicos com humanos em três fases.<br />Referência Bibliográfica <br />Como são as vacinas desenvolvidas? World Health Organization, 2021.Disponível em:https://www.who.int/pt/news-room/feature-stories/detail/how-are-vaccines-developed .Acesso em: 27 abril 2021. 
+                    <br />VACINA CONTRA COVID-19. SP CONTRA O NOVO CORONAVÍRUS, 2021.Disponível em:https://www.saopaulo.sp.gov.br/coronavirus/vacina/.Acesso em: 27 abril 2021.
+                </p1>
+            </h7>
+        </section>
+    </article>
+    <footer>
+        <section>
+            <img src="">
+        </section>
+        <section>
+            <nav>
+                <section>
+                    <a>Prevenção</a>
+                    <a>Sintomas</a>
+                    <a>Formas de contágio</a>
+                    <a>Vacina contra COVID-19</a>
+                </section>
+                <section>
+                    <a>Fases de contenção</a>
+                    <a>Estatística</a>
+                    <a>Casos em SP</a>
+                    <a>Contato</a>
+                </section>
+                <section>
+                    <a>Dúvidas</a>
+                    <a>Fake News</a>
+                    <a>Normas de uso</a>
+                    <a>Quem somos</a>
+                </section>
+            </nav>
+        </section>
+        <section>
+            <img src="">
+            <img src="">
+        </section>
+    </footer>
+</body>
+
+</html>
